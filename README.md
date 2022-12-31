@@ -1,4 +1,4 @@
 # TunnelMan-CS32-
-an interactive video game with AI controlled CPU.
+An interactive video game with AI controlled NPCs. They utilize stack/queue-based breadth-first search to track the TunnelMan's position and also the shortest path to exit when they're killed.
+
 Project 4 for CS 32 with Ambrosio, Summer 2022.
-It is a bit of a stretch to call the AI 'AI'. Really, they just use breadth-first search and some other stuff to track your player and try to kill it.
